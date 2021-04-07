@@ -8,4 +8,5 @@
 ```
 git clone https://github.com/DeadMakar90/otus_ansible.git
 vagrant up
+
 ```
